@@ -16,9 +16,9 @@ public class SSNValidationController {
 			return ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
 		}
 
-		String ssn = request.getSsn();
+		String ssn = request.getSSN();
 
-		boolean isValid = SsnValidator.isValidSSN(ssn);
+		boolean isValid = SSNValidator.isValidSSN(ssn);
 
 		SSNResponse response = new SSNResponse(isValid);
 		return ResponseEntity.ok(response);

@@ -5,11 +5,11 @@ public class SSNRequest {
 	private String ssn;
 	private String countryCode;
 
-	public String getSsn() {
+	public String getSSN() {
 		return ssn;
 	}
 
-	public void setSsn(String ssn) {
+	public void setSSN(String ssn) {
 		this.ssn = ssn;
 	}
 
