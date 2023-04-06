@@ -1,6 +1,6 @@
 package com.laskutus.springbootrestapi;
 
-public class SsnRequest {
+public class SSNRequest {
 
 	private String ssn;
 	private String countryCode;

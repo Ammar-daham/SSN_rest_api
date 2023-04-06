@@ -1,10 +1,10 @@
 package com.laskutus.springbootrestapi;
 
-public class SsnResponse {
+public class SSNResponse {
 
 	private boolean ssnValid;
 
-	public SsnResponse(boolean ssnValid) {
+	public SSNResponse(boolean ssnValid) {
 		this.ssnValid = ssnValid;
 	}
 
