@@ -48,9 +48,10 @@ The App includes JUnit tests for testing the valid format of SSN, The appliction
   ## API ENDPOINT
   
   * [http://localhost:8080/validate_ssn](http://localhost:8080/validate_ssn)
-  
-  
-    <img width="1440" alt="Screenshot 2023-04-09 at 20 22 15" src="https://user-images.githubusercontent.com/32091211/230787215-894632bb-3848-4a48-9923-72b432165330.png">
-    <img width="1440" alt="Screenshot 2023-04-09 at 20 21 40" src="https://user-images.githubusercontent.com/32091211/230787224-a05f807b-09a5-43d0-9431-19a654f69e08.png">
+    
+    [EndPoint call](https://user-images.githubusercontent.com/32091211/230982269-68297519-0b8a-402d-848a-d875ae3ec62c.mov)    
+
+
+
 
   
